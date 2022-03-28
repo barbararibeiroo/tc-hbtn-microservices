@@ -1,0 +1,19 @@
+O que é microsserviços ? um microserviço deve ser responsável por uma parte específica de todo o sistema, tendo seu próprio banco 
+de dados e fornecendo um recurso da aplicação a partir de uma API, que pode ser entendida como “pontes” para conectaros sistemas. 
+Dessa forma, facilita a troca de informações por mensagem entre os serviços, de forma que cada API define quais serão seus endpointsvisíveis da aplicação.
+
+Visão geral da arquitetura Monolítica e de Microserviços
+arquitetura Monolítica é um padrão utilizado no desenvolvimento de aplicações corporativas, porque seu funcionamento é compatível com aplicações normalmente pequenas.
+quando as aplicações passam a escalar e se tornam grandes demais, com  muitas funcionalidades, a arquitetura monolítica começa a apresentar seus principais problemas e
+uma grande aplicação dificulta o entendimento e manutenção do código para os desenvolvedores.
+Microserviços um aplicativo é criado por meio de coleção de serviços, cada serviço na coleção deve atender 
+aos seguintes critérios: fracamente acoplado, manutenção e testável e pode ser implantado independentemente.
+
+Os benefícios da arquitetura de microsserviços - Cite 3 exemplos: 
+Geralmente são mais fáceis de construir e manter;
+Os serviços são organizados em torno de problemas de negócios;
+Eles aumentam a produtividade e a velocidade;
+
+
+Quais são os tipos de comunicação entre os microsserviços ?
+Comunicação por HTTP; Comunicação por Mensagens e Comunicação Orientada a Eventos.
