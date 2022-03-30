@@ -1,0 +1,27 @@
+O que é Arquitetura Serverless ?
+
+R: é um modelo de execução de código utilizando um provedor cloud ou seja, é a arquitetura onde a execução dos códigos é realizada através de recursos alocados
+dinamicamente, não existem um ou mais computadores específicos para execução da aplicação.
+
+O que é FaaS (Function as a service) ?
+
+R: modelo de execução orientado a eventos, com o FaaS os programadores gravam lógica que é implantada em containers totatalmente gerenciados por uma plataforma e executada sob demanda, é implantado em containers gerenciados por um provedor de nuvem sem estado, efêmeros, acionados por eventos, totalmente gerenciados por um provedor em nuvem.
+
+Quais são os benefícios de usar arquitetura Serverless ?
+
+R: Livra os desenvolvedores de tarefas rotineiras de provisionamento e gerenciamento de servidores, ganhando tempo para concentrar nas aplicações,
+aumentando a produtividade dos desenvolvedores e reduzindo os custos operacionais.
+Mais fácil de adotar práticas devops, pois, os desenvolvedores não precisam mais descrever explicitamente a infraestrutura que eles querem que a equipe de operações provisione.
+Otimizar ainda mais o desenvolvimento de aplicações, incorparando componentes completos de soluções BaaS de terceiros.
+
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benéficios ?
+
+R: é uma tecnologia que permite empresas a capacidade de executar soluções de TI diretamente em servidores remotos, aumentando a performance e a disponibilidade de uma uma série de ferramentas de TI
+utilizadas no ambiente corporativo, como servidores virtualizados, software de gestão e suítes de aplicativos de escritório. Modelos utilizados em nuvem: nuvem pública, nuvem privada e híbrida. Benefícios: Redução de custos, Flexibilidade, agilidade e escalabilidade, Acesso a tecnologia de ponta, Software como Serviço (SaaS), Maior compromisso do fornecedor.
+
+Quais são as principais diferença entre Arquitetura Monólitica, Microsserviços e Serverless ?
+Arquitetura Monolítica é um padrão utilizado no desenvolvimento de aplicações corporativas, porque seu funcionamento é compatível com aplicações normalmente pequenas. Quando as aplicações passam a escalar e se tornam grandes demais, com  muitas funcionalidades, a arquitetura monolítica começa a apresentar seus principais problemas e uma grande aplicação dificulta o entendimento e manutenção do código para os desenvolvedores.
+
+Microsserviços consiste em construir aplicações desmembrando em serviços independentes, que comunicam entre si usando APIs e promovem grande agilidade em times de desenvolvimento.
+
+Arquitetura Serverless proporciona as empresas criar e manter aplicativos web sem preocupação com a infraestrutura em que eles estão funcionando.
